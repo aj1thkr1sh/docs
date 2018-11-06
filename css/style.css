@@ -1,10 +1,20 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
+@import url('https://fonts.googleapis.com/css?family=Baloo');
+@import url('https://fonts.googleapis.com/css?family=Signika');
 
 *{
   font-family: 'Poppins', sans-serif;
 }
 
+
+
+
 h1.logo{
+  font-family: 'Courgette', cursive;
+  padding-left: 10px;
+  padding-top: 5px;
   color: #df1552;
   font-size: 40px;
   float: left;
